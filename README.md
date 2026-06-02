@@ -14,7 +14,7 @@
 
 ### 🚀 About Me
 
-I am a Computer Engineering student dedicated to crafting smart engineering solutions and polished user interfaces. Whether training neural networks or prototyping high-fidelity interfaces in Figma, I focus on building accessible, scalable, and impactful applications.
+I am a Computer Engineering student dedicated to crafting smart engineering solutions and polished user interfaces. Whether training neural networks or prototyping high-fidelity interfaces, I focus on building accessible, scalable, and impactful applications.
 
 - 🔭 **Current Focus:** Polishing my personal [Portfolio Website](https://github.com/pranil019/Portfolio-Website) and developing intelligent web apps.
 - 🌱 **Learning & Exploring:** Cloud Architecture, DevOps Pipelines, Advanced Deep Learning, and the MERN Stack.
